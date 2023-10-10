@@ -16,10 +16,10 @@
 
 ## About me:
 
-- 📍  From India, currently residing in Germany
+- 📍 From India, currently residing in Germany
 - 💻 Junior Data Analyst
 - 🌎 Passionate about Data Science and Sustainability
-- :man_student: Master's in Renewable Energy Systems
+- 👨🏼‍🎓 Master's in Renewable Energy Systems
 - 💬 I speak English, Gujarati, Hindi und ein bisschen Deutsch (B1 Niveau)
 - 🌱 I love taking new challenges and learning something new.
 <br>
