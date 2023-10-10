@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="badges" align="center">
     <img src="https://favtutor.com/resources/images/uploads/mceu_2667311911615193852000.png" width="300">
     <p>
@@ -14,3 +12,5 @@
     </a> 
     <a href="#" />
 </div>
+
+### Hi there 👋
