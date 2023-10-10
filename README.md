@@ -14,4 +14,14 @@
     <a href="#" />
 </div>
 
-### Hi there 👋
+## About me:
+
+- 📍 From India, currently residing in Germany
+- 💻 Junior Data Analyst
+- 🌎 Passionate about Data Science and Sustainability
+- Master's in Renewable Energy Systems
+- 💬 I speak English, Português, Español und Ich lerne Deutsch
+- 🌱 I love taking new challenges and learning something new.
+<br>
+
+
