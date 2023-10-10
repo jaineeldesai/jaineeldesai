@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="badges" align="center">
-    <img src="https://thumbs.dreamstime.com/z/data-analysis-icon-flat-design-business-information-finance-document-chart-analytic-strategy-money-statistic-development-61383283.jpg?w=200" width="200">
+    <img src="https://favtutor.com/resources/images/uploads/mceu_2667311911615193852000.png" width="350">
     <p>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=32&pause=1000&color=F9A826&center=true&width=1000&height=60&lines=Hi!+I'm+Jaineel+and+I'm+a+Data+Analyst." alt="Typing SVG" />
     <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
