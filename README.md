@@ -16,7 +16,7 @@
 
 ## About me:
 
-- 📍 From India, currently residing in Germany
+- 📍  From India, currently residing in Germany
 - 💻 Junior Data Analyst
 - 🌎 Passionate about Data Science and Sustainability
 - :man_student: Master's in Renewable Energy Systems
