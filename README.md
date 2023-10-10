@@ -1,5 +1,6 @@
 <div id="badges" align="center">
     <img src="https://favtutor.com/resources/images/uploads/mceu_2667311911615193852000.png" width="300">
+    <a href="#" />
     <p>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=38&pause=1000&color=F9A826&center=true&width=1000&height=60&lines=Hi!+I'm+Jaineel+and+I'm+a+Data+Analyst." alt="Typing SVG" />
     <!--Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg-->
