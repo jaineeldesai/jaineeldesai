@@ -15,7 +15,6 @@
 - 👨🏼‍🎓 Master's in Renewable Energy Systems
 - 💬 I speak English, Gujarati, Hindi und ein bisschen Deutsch (B1 Niveau)
 - 🌱 I love taking new challenges and learning something new.
-<br>
 
 ## ⚙ Languages and Tools
 
