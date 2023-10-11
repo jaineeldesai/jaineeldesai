@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-    ![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)
-    <!--Snake animation from: https://github.com/Platane/snk-->
 </div>
+
+![Snake animation](https://github.com/kaisunoo/kaisunoo/blob/output/github-contribution-grid-snake-dark.svg)
+<!--Snake animation from: https://github.com/Platane/snk-->
