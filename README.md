@@ -47,6 +47,3 @@
     </a> 
     <a href="#" />
 </div>
-
-[![Snake Animation](https://raw.githubusercontent.com/jaineeldesai/jaineeldesai/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/jaineeldesai/jaineeldesai/output/github-contribution-grid-snake-dark.svg)
-<!--Snake animation from: https://github.com/Platane/snk-->
