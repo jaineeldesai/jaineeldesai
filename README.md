@@ -13,7 +13,7 @@
 - 💻 Renewable Energy Engineer | Data Analyst
 - 🌎 Passionate about Data Analysis, Energy Transition and Sustainability
 - 👨🏼‍🎓 Master's in Renewable Energy Systems
-- 💬 I speak English, Gujarati, Hindi und ein bisschen Deutsch (B1 Niveau)
+- 💬 I speak English, Gujarati, Hindi und ein bisschen Deutsch (B2 Niveau)
 - 🌱 I love taking new challenges and learning something new.
 
 ## ⚙ Languages and Tools
